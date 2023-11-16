@@ -1,0 +1,37 @@
+.main {
+    border: 5px inset red;
+    background-color: lightcyan;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    padding: 20px;
+
+}
+
+tr {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+
+
+.comp1 {
+    border: 5px inset red;
+    background-color: darkslateblue;
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.comp2 {
+    border: 5px inset blue;
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+
+}
